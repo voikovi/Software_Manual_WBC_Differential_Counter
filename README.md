@@ -1,1 +1,1 @@
-# Stefan-Voykov
+# Program for manually counting blood cells with microscope
