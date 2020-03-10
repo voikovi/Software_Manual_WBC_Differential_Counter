@@ -1,4 +1,4 @@
-medical2_4.c is a basic console application for manually counting blood cells with microscope by typing on the keybord.
+medical2_4.c is a basic console application for manually counting blood cells with microscope by typing on the keyboard.
 The program has been tested on Windows 10 and Windows 7. 
 It is open source code.
 The license is GNU General Public License version 2.
