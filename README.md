@@ -1,4 +1,4 @@
-# Program for manually counting blood cells with microscope
+# Software - Manual WBC Differential Counter (Software program for manually counting blood cells with microscope)
 
 How to use the program:
 Program for counting blood cells with microscope.
