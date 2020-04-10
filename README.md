@@ -1,6 +1,8 @@
 # Software - Manual WBC Differential Counter (Software program for manually counting blood cells with microscope)
 # Софтуер - Ръчен WBC Диференциален Брояч (Софтуерна програма за ръчно броене на кръвни клетки с микроскоп)
 
+This is a software program for counting blood cells with microscope, also known as differential counting. It is a medical software. The primary goal of this software is to imitate the function of 8 button WBC (White Blood Cell) differential counter.
+
 How to use the program:
 Program for counting blood cells with microscope.
 Counting is done manually by the keyboard of the computer.
