@@ -3,7 +3,7 @@
 
 This is a software program for counting blood cells with microscope, also known as differential counting. It is a medical software. The primary goal of this software is to imitate the function of 8 button WBC (White Blood Cell) differential counter.
 
-![Animation](gif1.gif)
+![Animation](animation_2.gif)
 
 How to use the program:
 Program for counting blood cells with microscope.
