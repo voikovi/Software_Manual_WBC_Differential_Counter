@@ -3,6 +3,7 @@
 
 This is a software program for counting blood cells with microscope, also known as differential counting. It is a medical software. The primary goal of this software is to imitate the function of 8 button WBC (White Blood Cell) differential counter.
 The program works on Windwos 10, Windows 7 and Windows XP. For Windows XP download the 32 bit version of the program. Before working with the program read the user manual.
+You can check the new version of the program medical2_6.exe it now supports name, date and history of old results saved in .txt file!
 
 ![Animation](animation_2.gif)
 
