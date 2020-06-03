@@ -6,6 +6,8 @@ The program works on Windwos 10, Windows 7 and Windows XP. For Windows XP downlo
 IMPORTANT!!! If your OS is Windows XP or Windows 7 you have to do mandatory setup. Please download mandatory setup.pdf
 You can check the new version of the program medical2_6.exe it now supports name, date and history of old results saved in .txt file!
 
+If you have problems with the program or suggestions write an email to voikovi@abv.bg
+
 ![Animation](animation_2.gif)
 
 How to use the program:
